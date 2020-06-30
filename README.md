@@ -2,8 +2,8 @@
 
 This repository contains the source of the Faust website which is currently deployed at <https://faust.grame.fr>.
 
-
 ### Prerequisites
+
 - you must have python and pip installed.
 
 
