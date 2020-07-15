@@ -6,7 +6,8 @@ nav:
     - Documentation:
         - 'Faust Language' : https://faustdoc.grame.fr
         - 'Faust Libraries': https://faustlibdoc.grame.fr
-        - 'Tutorials': https://faustdoc.grame.fr/tutorials/teensy/
+        - 'Tutorials': https://faustdoc.grame.fr/tutorials/
+        - 'Quick Start': https://faustdoc.grame.fr/manual/quick-start/
     - Download: download.md
     - Tools:
          - 'Web Editor': https://fausteditor.grame.fr
