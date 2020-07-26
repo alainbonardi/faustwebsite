@@ -6,7 +6,7 @@ nav:
     - Documentation:
         - 'Faust Language' : https://faustdoc.grame.fr
         - 'Faust Libraries': https://faustlibdoc.grame.fr
-        - 'Tutorials': https://faustdoc.grame.fr/tutorials/
+        - 'Tutorials': https://faustdoc.grame.fr/tutorials/teensy
         - 'Quick Start': https://faustdoc.grame.fr/manual/quick-start/
     - Download: download.md
     - Tools:
@@ -26,7 +26,7 @@ nav:
 
     - About: about.md
 
-theme: flatly
+theme: united
 #The available installed themes are: mkdocs, readthedocs, cinder, cosmo, flatly, spacelab, united, yeti
 
 site_dir: ../docs

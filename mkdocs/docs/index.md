@@ -24,3 +24,14 @@ There are many ways to get started with Faust, choose the one that suits you the
 - If you have an hour or two to spare, check out [Quick Start](https://faustdoc.grame.fr/guide/quick-start/) Tutorial (recommended option).
 - If you're in a hurry or if you hate to wait, check out our [Online Examples](https://faustide.grame.fr).
 - If you wanna do things the right way, read the [Faust Manual](https://github.com/grame-cncm/faust/raw/master-dev/documentation/faust-quick-reference.pdf).
+
+## News
+#####Faust and the ESP32
+ESP32-based boards can now be programmed with Faust! Check out our new tutorial to see how this works and start making absurdly cheap low-latency synthesizer modules and audio effects.
+#####Faust Mass-Interaction
+Discover a new series of tools for mass-interaction physical modeling in Faust!
+#####Visualize Faust's Evolution
+View the evolution of the Faust project from 2004 to 2018! The visualization was done using Gource.
+#####Faust Awards 2018 to iPlug 2!
+The Faust Award 2018 was attributed to iPlug 2, a free open source C++ audio plug-in framework, allowing developers to create audio plug-ins and apps across a wide range of formats from the same code, including graphical user interface and DSP components.
+
