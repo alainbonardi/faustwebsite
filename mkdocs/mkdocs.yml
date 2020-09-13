@@ -26,7 +26,9 @@ nav:
 
     - About: about.md
 
-theme: united
+theme:
+  name: mkdocs
+  custom_dir: custom_theme
 #The available installed themes are: mkdocs, readthedocs, cinder, cosmo, flatly, spacelab, united, yeti
 
 site_dir: ../docs
@@ -51,7 +53,7 @@ plugins:
           enabled_if_env: ENABLE_PDF_EXPORT
 
 extra_css:
-   - '/css/faust.css'
+    - '/css/faust.css'
 
 #extra_javascript:
 #  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_CHTML-full
